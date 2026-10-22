@@ -1,0 +1,5 @@
+,page_id,page_name,ad_id,ad_creation_time,ad_delivery_start_time,ad_delivery_stop_time,bylines,currency,estimated_audience_size,impressions,spend,publisher_platforms,illuminating_scored_message,illuminating_mentions
+count,246745,246745,246745,246745,246745,244586,245736,246745,246166,246745,246745,246745,246745,246745
+unique,4475,4546,246745,547,558,433,3786,18,8,39,44,9,37338,278
+top,page_id_24413227922,Kamala Harris,0ddb025b8544e2d58e6977ad417e742a52522b3e1fc1c9d9b61c57148f8d72fc,2024-10-27,2024-10-28,2024-11-05,HARRIS FOR PRESIDENT,USD,{'lower_bound': '1000001'},"{'lower_bound': '0', 'upper_bound': '999'}","{'lower_bound': '0', 'upper_bound': '99'}","['facebook', 'instagram']",9b2d5b4678781e53038e91ea5324530a03f27dc1d0e5f6c9bc9d493a23be9de0,[]
+freq,55503,55503,1,8619,10089,14222,49788,246599,100146,80822,135950,214434,3046,73205

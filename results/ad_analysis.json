@@ -1,0 +1,310 @@
+{
+  "rows": 246745,
+  "duplicate_ad_ids": 0,
+  "duplicate_rows": 0,
+  "currencies": {
+    "USD": 246599,
+    "INR": 63,
+    "GBP": 17,
+    "EUR": 11,
+    "EGP": 8,
+    "PKR": 8,
+    "NGN": 7,
+    "CAD": 7,
+    "BRL": 6,
+    "VND": 5,
+    "ILS": 4,
+    "PLN": 3,
+    "AUD": 2,
+    "PHP": 1,
+    "CZK": 1,
+    "NOK": 1,
+    "AED": 1,
+    "CNY": 1
+  },
+  "ranges": {
+    "spend": {
+      "missing": 0,
+      "invalid": 0,
+      "open_upper": 0,
+      "closed": 246745,
+      "endpoint_describe": {
+        "spend_lower": {
+          "count": 246745.0,
+          "mean": 921.9518126000527,
+          "std": 4563.376660198255,
+          "min": 0.0,
+          "25%": 0.0,
+          "50%": 0.0,
+          "75%": 400.0,
+          "max": 450000.0
+        },
+        "spend_upper": {
+          "count": 246745.0,
+          "mean": 1201.6310563537254,
+          "std": 5428.019628869367,
+          "min": 99.0,
+          "25%": 99.0,
+          "50%": 99.0,
+          "75%": 499.0,
+          "max": 499999.0
+        }
+      }
+    },
+    "impressions": {
+      "missing": 0,
+      "invalid": 0,
+      "open_upper": 2266,
+      "closed": 244479,
+      "endpoint_describe": {
+        "impressions_lower": {
+          "count": 246745.0,
+          "mean": 42441.99071916351,
+          "std": 131841.73984882087,
+          "min": 0.0,
+          "25%": 0.0,
+          "50%": 3000.0,
+          "75%": 20000.0,
+          "max": 1000000.0
+        },
+        "impressions_upper": {
+          "count": 244479.0,
+          "mean": 39945.32258803415,
+          "std": 108952.27370638918,
+          "min": 999.0,
+          "25%": 999.0,
+          "50%": 3999.0,
+          "75%": 24999.0,
+          "max": 999999.0
+        }
+      }
+    },
+    "estimated_audience_size": {
+      "missing": 579,
+      "invalid": 0,
+      "open_upper": 100146,
+      "closed": 146020,
+      "endpoint_describe": {
+        "estimated_audience_size_lower": {
+          "count": 246166.0,
+          "mean": 480610.49540147703,
+          "std": 447305.7198782723,
+          "min": 100.0,
+          "25%": 50001.0,
+          "50%": 100001.0,
+          "75%": 1000001.0,
+          "max": 1000001.0
+        },
+        "estimated_audience_size_upper": {
+          "count": 146020.0,
+          "mean": 384556.4648678263,
+          "std": 326817.78616868664,
+          "min": 1000.0,
+          "25%": 50000.0,
+          "50%": 500000.0,
+          "75%": 500000.0,
+          "max": 1000000.0
+        }
+      }
+    }
+  },
+  "usd": {
+    "rows": 246599,
+    "closed_spend_rows": 246599,
+    "lower_total": 227396100.0,
+    "upper_total_closed_only": 296380401.0,
+    "midpoint_total_closed_only": 261888250.5,
+    "midpoint_describe": {
+      "count": 246599.0,
+      "mean": 1062.0004562062295,
+      "std": 4993.845792088025,
+      "min": 49.5,
+      "25%": 49.5,
+      "50%": 49.5,
+      "75%": 449.5,
+      "max": 474999.5
+    }
+  },
+  "usd_top_pages": [
+    {
+      "page_id": "page_id_24413227922",
+      "rows": 55503,
+      "midpoint": 82823398.5,
+      "names": "Kamala Harris"
+    },
+    {
+      "page_id": "page_id_7860876103",
+      "rows": 14822,
+      "midpoint": 26375389.0,
+      "names": "Joe Biden"
+    },
+    {
+      "page_id": "page_id_153080620724",
+      "rows": 23988,
+      "midpoint": 19621356.0,
+      "names": "Donald J. Trump"
+    },
+    {
+      "page_id": "page_id_167251659804799",
+      "rows": 9851,
+      "midpoint": 10604924.5,
+      "names": "Biden-Harris HQ / Kamala HQ"
+    },
+    {
+      "page_id": "page_id_6958677033",
+      "rows": 6581,
+      "midpoint": 7637759.5,
+      "names": "Tim Walz"
+    },
+    {
+      "page_id": "page_id_255594894306221",
+      "rows": 10461,
+      "midpoint": 6140619.5,
+      "names": "The Daily Scroll"
+    },
+    {
+      "page_id": "page_id_323544107517320",
+      "rows": 1210,
+      "midpoint": 4267645.0,
+      "names": "Future Forward"
+    },
+    {
+      "page_id": "page_id_6815841748",
+      "rows": 2203,
+      "midpoint": 4246498.5,
+      "names": "Barack Obama"
+    },
+    {
+      "page_id": "page_id_318975057964832",
+      "rows": 1243,
+      "midpoint": 3268528.5,
+      "names": "America PAC"
+    },
+    {
+      "page_id": "page_id_1411189272541151",
+      "rows": 2005,
+      "midpoint": 2881147.5,
+      "names": "Robert F. Kennedy, Jr"
+    }
+  ],
+  "lists": {
+    "illuminating_mentions": {
+      "invalid": 0,
+      "counts": {
+        "Donald Trump": 78324,
+        "Kamala Harris": 53239,
+        "Joe Biden": 24247,
+        "President Trump": 22153,
+        "President Biden": 16517,
+        "JD Vance": 12001,
+        "Tim Walz": 8486,
+        "Nikki Haley": 1999,
+        "Ron DeSantis": 1313,
+        "Dean Phillips": 688,
+        "Robert F. Kennedy": 364,
+        "Jill Stein": 218,
+        "Vivek Ramaswamy": 204,
+        "Chris Christie": 185,
+        "Tim Scott": 113,
+        "Mike Pence": 105,
+        "Robert Kennedy": 95,
+        "Asa Hutchinson": 55,
+        "Doug Burgum": 51,
+        "Cornel West": 46,
+        "Marianne Williamson": 32,
+        "Larry Elder": 8,
+        "Will Hurd": 5,
+        "Jason Palmer": 2,
+        "Perry Johnson": 1
+      }
+    },
+    "publisher_platforms": {
+      "invalid": 0,
+      "counts": {
+        "facebook": 238350,
+        "instagram": 223434,
+        "audience_network": 566,
+        "messenger": 566
+      }
+    }
+  },
+  "dates": {
+    "ad_creation_time": {
+      "min": "2021-07-06",
+      "max": "2024-11-05",
+      "missing_or_invalid": 0
+    },
+    "ad_delivery_start_time": {
+      "min": "2021-07-06",
+      "max": "2024-11-05",
+      "missing_or_invalid": 0
+    },
+    "ad_delivery_stop_time": {
+      "min": "2023-09-01",
+      "max": "2024-11-06",
+      "missing_or_invalid": 2159
+    }
+  },
+  "stop_before_start": 0,
+  "start_month_counts": {
+    "2021-07": 1,
+    "2021-08": 2,
+    "2022-01": 4,
+    "2022-02": 10,
+    "2022-03": 201,
+    "2022-04": 27,
+    "2022-05": 4,
+    "2022-08": 4,
+    "2022-10": 2,
+    "2023-02": 3,
+    "2023-03": 24,
+    "2023-04": 22,
+    "2023-05": 8,
+    "2023-06": 46,
+    "2023-07": 195,
+    "2023-08": 1660,
+    "2023-09": 4532,
+    "2023-10": 5483,
+    "2023-11": 4180,
+    "2023-12": 5909,
+    "2024-01": 8049,
+    "2024-02": 7764,
+    "2024-03": 7040,
+    "2024-04": 7908,
+    "2024-05": 8808,
+    "2024-06": 12325,
+    "2024-07": 17673,
+    "2024-08": 33777,
+    "2024-09": 35893,
+    "2024-10": 85172,
+    "2024-11": 19
+  },
+  "positive_labels": {
+    "illuminating_scam": 17675,
+    "illuminating_election_integrity_Truth": 12359,
+    "illuminating_msg_type_advocacy": 135372,
+    "illuminating_msg_type_issue": 94170,
+    "illuminating_msg_type_attack": 67079,
+    "illuminating_msg_type_image": 54951,
+    "illuminating_msg_type_cta": 141328,
+    "illuminating_cta_subtype_engagement": 30811,
+    "illuminating_cta_subtype_fundraising": 56378,
+    "illuminating_cta_subtype_voting": 35493,
+    "illuminating_topic_covid": 6138,
+    "illuminating_topic_economy": 30133,
+    "illuminating_topic_education": 3535,
+    "illuminating_topic_environment": 5243,
+    "illuminating_topic_foreign_policy": 1299,
+    "illuminating_topic_governance": 6327,
+    "illuminating_topic_health": 26942,
+    "illuminating_topic_immigration": 8283,
+    "illuminating_topic_lgbtq_issues": 797,
+    "illuminating_topic_military": 537,
+    "illuminating_topic_race_and_ethnicity": 3068,
+    "illuminating_topic_safety": 8321,
+    "illuminating_topic_social_and_cultural": 26115,
+    "illuminating_topic_technology_and_privacy": 285,
+    "illuminating_topic_womens_issue": 19964,
+    "illuminating_incivility": 46271
+  }
+}
